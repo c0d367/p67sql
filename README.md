@@ -1,6 +1,6 @@
 # p67sql
 <br>
-for esy use sqlmap
+for easy use sqlmap
 <br>
 [1]chmod +x requirment.sh
 <br>
